@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">LinkedIn</a> •
-  <a href="https://github.com/YOUR-USERNAME">GitHub</a> •
-  <a href="mailto:YOUR-EMAIL@umass.edu">Email</a>
+  <a href="https://www.linkedin.com/in//">LinkedIn</a> •
+  <a href="https://github.com/mihirzx">GitHub</a> •
+  <a href="mailto:miihrjani@umass.edu">Email</a>
 </p>
 
 ---
