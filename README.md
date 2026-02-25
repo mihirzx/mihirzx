@@ -15,13 +15,15 @@
 
 ## A little more about me...
 
-I’m a student at UMass Amherst studying Data Science & Statistics and Computational Mathematics. I like building projects that use data to solve real problems, especially anything involving machine learning, modeling, and optimization.
+I’m a student at UMass Amherst studying Data Science & Statistics and Computational Mathematics. I build machine learning and data-driven systems, with a focus on modeling, optimization, and practical implementation.
+
 
 Most of my work right now is focused on hands-on projects where I can go end-to-end: data cleaning, feature engineering, modeling, evaluation, and building something practical around the results. I enjoy learning by building and improving projects over time instead of just stopping at the first version.
 
 Currently, I’m focused on growing my skills in machine learning, quantitative analysis, and backend/data systems while looking for internship opportunities where I can contribute, learn from a strong team, and keep leveling up.
 
-Outside of my career life, I enjoy reading books, climbing, and watching the UFC! 
+Outside of school and projects, I enjoy reading, climbing, and watching UFC.
+
 
 ---
 
@@ -36,9 +38,7 @@ Outside of my career life, I enjoy reading books, climbing, and watching the UFC
 
 ## Featured Projects
 
-- **Crewlytics** – ML + optimization project for workload risk scoring and task rebalancing
-
----
+- **Crewlytics** – ML + optimization system for workload risk scoring and task rebalancing (ROC-AUC 0.89, Recall 0.95, reduced simulated overload by 40.8%)
 
 ## Currently working on
 - **Air Pollution & Health Outcomes Research** – panel-structured data analysis with regression modeling
