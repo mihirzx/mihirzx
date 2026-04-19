@@ -30,7 +30,7 @@ class Mihir:
         self.externship   = "AI/ML Extern @ Pfizer Supply Chain"
         self.building     = "RxBuddy — AI pharmacy consultation app"
         self.focus        = ["Machine Learning", "AI Systems", "Health Tech", "Backend"]
-        self.looking_for  = "Summer 2026 DS / ML / AI Engineering Internships"
+        self.looking_for  = "Summer 2026 SWE/DS/ML/AI Engineering Internships"
         self.hobbies      = ["Climbing", "UFC", "Reading"]
 
     def current_obsession(self):
@@ -81,7 +81,7 @@ Full-stack app with **10,000+ FDA-sourced drug questions**, hybrid TF-IDF + KNN 
 <td width="50%" valign="top">
 
 ### 🤖 Buddy — AI Caregiver
-*YHack 2026 Winner*
+*YHack 2026 *
 
 Real-time medication safety system for Alzheimer's patients. Viam vision + Gemini + ElevenLabs voice pipeline with **<800ms event-to-speech latency**.
 
@@ -159,7 +159,7 @@ Panel-data analysis (2013–2025) across **50+ U.S. cities**, merging EPA/CDC da
 - 🏥 &nbsp; **RxBuddy** — shipping Drug Index, User Auth, and Interaction Checker
 - 🔬 &nbsp; **Pfizer Externship** — building RAG document intelligence pipelines
 - 📚 &nbsp; **Air Pollution Research** — panel data regression across U.S. metros
-- 💼 &nbsp; **Recruiting** — Summer 2026 DS/ML/AI Engineering internships
+- 💼 &nbsp; **Recruiting** — Summer 2026 SWE/DS/ML/AI Engineering internships
 
 <br/>
 
