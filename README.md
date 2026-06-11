@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Mihir%20Jani&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Data%20Science%20%7C%20ML%20Engineering%20%7C%20AI%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Data+Science+%2B+Comp+Math+%40+UMass+Amherst;Building+AI+Systems+for+Healthcare;Full-Stack+ML+Engineer;AI%2FML+Extern+%40+Pfizer+Supply+Chain;Open+to+Summer+2026+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=Data+Science+%2B+Comp+Math+%40+UMass+Amherst;Computer+Vision+Engineer+%40+Glimpse;Building+AI+Systems+that+Actually+Ship;Full-Stack+ML+%7C+CV+%7C+Backend)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/mihir-jani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -25,16 +25,18 @@
 class Mihir:
     def __init__(self):
         self.school       = "UMass Amherst"
-        self.degree       = "B.S. Data Science & Statistics + Computational Mathematics"
+        self.degree       = ["B.S. Data Science & Statistics", "Computational Mathematics"]
         self.graduation   = "June 2028"
-        self.externship   = "AI/ML Extern @ Pfizer Supply Chain"
-        self.building     = "RxBuddy — AI pharmacy consultation app"
-        self.focus        = ["Machine Learning", "AI Systems", "Health Tech", "Backend"]
-        self.looking_for  = "Summer 2026 SWE/DS/ML/AI Engineering Internships"
-        self.hobbies      = ["Climbing", "UFC", "Reading"]
+        self.current_role = "Computer Vision Data Engineer Intern @ Glimpse"
+        self.building     = ["AI pipelines", "computer vision systems", "things that ship"]
+        self.focus        = ["ML Engineering", "Computer Vision", "AI Systems", "Backend"]
+        self.hobbies      = ["Lifting", "Muay Thai", "UFC", "Reading"]
 
     def current_obsession(self):
-        return "Building things at the intersection of AI + healthcare 🩺"
+        return "Making models actually useful in production 🔬"
+
+    def fun_fact(self):
+        return "I debug faster after a heavy set. No I will not elaborate."
 ```
 
 <br/>
@@ -81,7 +83,7 @@ Full-stack app with **10,000+ FDA-sourced drug questions**, hybrid TF-IDF + KNN 
 <td width="50%" valign="top">
 
 ### 🤖 Buddy — AI Caregiver
-*YHack 2026 *
+*YHack 2026*
 
 Real-time medication safety system for Alzheimer's patients. Viam vision + Gemini + ElevenLabs voice pipeline with **<800ms event-to-speech latency**.
 
@@ -135,6 +137,7 @@ Panel-data analysis (2013–2025) across **50+ U.S. cities**, merging EPA/CDC da
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-7C3AED?style=for-the-badge&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8B5CF6?style=for-the-badge&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-A78BFA?style=for-the-badge&logoColor=white)
@@ -156,10 +159,10 @@ Panel-data analysis (2013–2025) across **50+ U.S. cities**, merging EPA/CDC da
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp; Currently
 
-- 🏥 &nbsp; **RxBuddy** — shipping Drug Index, User Auth, and Interaction Checker
-- 🔬 &nbsp; **Pfizer Externship** — building RAG document intelligence pipelines
-- 📚 &nbsp; **Air Pollution Research** — panel data regression across U.S. metros
-- 💼 &nbsp; **Recruiting** — Summer 2026 SWE/DS/ML/AI Engineering internships
+- 🔭 &nbsp; **Glimpse** — Computer Vision Data Engineer Intern (July–Dec 2026), building battery quality control CV systems
+- 💊 &nbsp; **RxBuddy** — polishing for demo, Drug Index + Interaction Checker in progress
+- 📚 &nbsp; **Algorithms & Databases** — CS 311 + CS 345 concurrently this summer
+- ⚡ &nbsp; **LeetCode grind** — NeetCode 150, targeting 250+ problems by fall recruiting
 
 <br/>
 
