@@ -14,6 +14,9 @@ jobs:
       contents: write
     runs-on: ubuntu-latest
     steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
       - name: Generate snake animation
         uses: Platane/snk@v3
         with:
@@ -21,6 +24,18 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Self-hosted stats card. github-readme-stats is frequently rate-limited
+      # (503 on every attempt when this profile was built), so the README reads
+      # this instead and depends on nothing outside GitHub.
+      # continue-on-error so a stats hiccup can never block the snake publish.
+      # STATS_TOKEN (a PAT with read:user) is preferred; the default token is
+      # tried as a fallback and may lack access to contribution data.
+      - name: Generate stats card
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/gen_stats.py dist/stats.svg mihirzx
 
       - name: Push output to "output" branch
         uses: crazy-max/ghaction-github-pages@v4

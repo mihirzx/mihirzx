@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 158" width="560" height="158" role="img" aria-label="Studiea — Four AI agents running the classroom loop end to end">
+
+  <defs>
+    <pattern id="gridc" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#00F0FF" stroke-width="0.5" opacity="0.07"/>
+    </pattern>
+    <pattern id="scanc" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#00F0FF" opacity="0.045"/>
+    </pattern>
+    <filter id="glowc" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softc" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="1.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="560" height="158" fill="#0A0E14"/>
+  <rect width="560" height="158" fill="url(#gridc)"/>
+  <rect x="1" y="1" width="558" height="156" rx="3" fill="#0D1117" fill-opacity="0.55" stroke="#00F0FF" stroke-width="1.2" stroke-opacity="0.45"/>
+
+  <!-- left accent spine -->
+  <rect x="1" y="1" width="3.5" height="156" fill="#00F0FF" opacity="0.9"/>
+  <rect x="1" y="1" width="3.5" height="42" fill="#00F0FF">
+    <animate attributeName="y" values="1;113;1" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+
+  <g stroke="#00F0FF" stroke-width="1.2" fill="none" opacity="0.5">
+    <path d="M12 23V12H23"/>
+    <path d="M537 12H548V23"/>
+    <path d="M548 135V146H537"/>
+    <path d="M23 146H12V135"/>
+  </g>
+
+
+  <text x="30" y="52" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="25" font-weight="700" fill="#00F0FF" letter-spacing="1.5" filter="url(#softc)">Studiea</text>
+  <text x="30" y="88" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#C9D1D9" letter-spacing="0.2">Four AI agents running the classroom loop end to end</text>
+
+  <rect x="30" y="107" width="500" height="1" fill="#00F0FF" opacity="0.2"/>
+  <text x="30" y="130" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#6E7681" letter-spacing="0.8">Gemini 2.0  ·  MongoDB  ·  Express</text>
+  <text x="530" y="130" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#00F0FF" text-anchor="end" opacity="0.75">&#8599;</text>
+
+  <rect width="560" height="158" fill="url(#scanc)"/>
+</svg>

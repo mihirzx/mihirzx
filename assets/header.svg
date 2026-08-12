@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="1000" height="250" role="img" aria-label="Mihir Jani — Computer Vision Data Engineer at Glimpse">
+
+  <defs>
+    <pattern id="gridh" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#00F0FF" stroke-width="0.5" opacity="0.07"/>
+    </pattern>
+    <pattern id="scanh" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#00F0FF" opacity="0.045"/>
+    </pattern>
+    <filter id="glowh" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softh" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="1.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1000" height="250" fill="#0A0E14"/>
+  <rect width="1000" height="250" fill="url(#gridh)"/>
+
+  <!-- horizon glow -->
+  <ellipse cx="500.0" cy="250" rx="460" ry="90" fill="#00F0FF" opacity="0.06"/>
+  <ellipse cx="500.0" cy="250" rx="240" ry="55" fill="#FF2E97" opacity="0.05"/>
+
+
+  <g stroke="#00F0FF" stroke-width="1.6" fill="none" opacity="0.9">
+    <path d="M22 34V20H36"/>
+    <path d="M964 20H978V34"/>
+    <path d="M978 216V230H964"/>
+    <path d="M36 230H22V216"/>
+  </g>
+
+  <!-- chromatic-aberration title: magenta and cyan ghosts under a white core -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="66" font-weight="700" text-anchor="middle" letter-spacing="10">
+    <text x="497.0" y="118" fill="#FF2E97" opacity="0.85" filter="url(#softh)">MIHIR JANI
+      <animate attributeName="dx" values="0;-4;1;0;3;0" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="503.0" y="118" fill="#00F0FF" opacity="0.85" filter="url(#softh)">MIHIR JANI
+      <animate attributeName="dx" values="0;4;-1;0;-3;0" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="500.0" y="118" fill="#F0F6FC">MIHIR JANI</text>
+  </g>
+
+  <!-- underline -->
+  <g>
+    <rect x="270.0" y="140" width="460" height="1.5" fill="#00F0FF" opacity="0.55"/>
+    <rect x="270.0" y="140" width="90" height="1.5" fill="#FF2E97">
+      <animate attributeName="x" values="270.0;640.0;270.0" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="500.0" y="176" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="17" fill="#00F0FF" text-anchor="middle" letter-spacing="4.5" filter="url(#softh)">COMPUTER VISION DATA ENGINEER @ GLIMPSE</text>
+  <text x="500.0" y="205" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#6E7681" text-anchor="middle" letter-spacing="2.6">DATA SCIENCE + COMPUTATIONAL MATH @ UMASS AMHERST — CLASS OF 2028</text>
+
+  <!-- status pips -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" letter-spacing="1.6">
+    <circle cx="46" cy="42" r="3.5" fill="#FF2E97">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="58" y="46" fill="#6E7681">SYS.ONLINE</text>
+    <text x="954" y="46" fill="#6E7681" text-anchor="end">BUILDING // SHIPPING</text>
+  </g>
+
+  <rect width="1000" height="250" fill="url(#scanh)"/>
+  <!-- sweep -->
+  <rect x="0" y="0" width="1000" height="2" fill="#00F0FF" opacity="0.16">
+    <animate attributeName="y" values="0;250;0" dur="9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
