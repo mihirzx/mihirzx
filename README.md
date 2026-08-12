@@ -108,10 +108,6 @@ class Mihir:
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> &nbsp; Currently
 
-- 🔭 &nbsp; **Glimpse** — Computer Vision Data Engineer Intern (July–Dec 2026), building battery quality-control CV systems
-- 💊 &nbsp; **RxBuddy** — polishing for demo; Drug Index + Interaction Checker in progress
-- 📚 &nbsp; **Algorithms & Databases** — CS 311 + CS 345 concurrently this summer
-- ⚡ &nbsp; **LeetCode grind** — NeetCode 150, targeting 250+ problems by fall recruiting
 
 <br/>
 
