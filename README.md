@@ -30,7 +30,7 @@ class Mihir:
         self.current_role = "Computer Vision Data Engineer Intern @ Glimpse"
         self.building     = ["AI pipelines", "computer vision systems", "things that ship"]
         self.focus        = ["ML Engineering", "Computer Vision", "AI Systems", "Backend"]
-        self.hobbies      = ["Lifting", "Muay Thai", "UFC", "Reading"]
+        self.hobbies      = ["Lifting", "Climbing", "UFC", "Reading"]
 
     def current_obsession(self):
         return "Making models actually useful in production 🔬"
