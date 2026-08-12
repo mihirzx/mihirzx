@@ -26,155 +26,155 @@
     <path d="M986 298V310H974"/>
     <path d="M26 310H14V298"/>
   </g>
-  <text x="34" y="36" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#00F0FF" letter-spacing="3.4" filter="url(#softs)">// STACK</text>
+  <text x="34" y="36" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#00F0FF" letter-spacing="3.4" filter="url(#softs)">// STACK</text>
 
-  <text x="34" y="76" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#00F0FF" letter-spacing="2.2" opacity="0.9">LANGUAGES</text>
+  <text x="34" y="76" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#00F0FF" letter-spacing="2.2" opacity="0.9">LANGUAGES</text>
   <rect x="34" y="85" width="144" height="1" fill="#00F0FF" opacity="0.25"/>
   <g>
     <rect x="190" y="56" width="69" height="27" rx="2" fill="#00F0FF" opacity="0.09"/>
     <rect x="190" y="56" width="69" height="27" rx="2" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.35"/>
-    <text x="224" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Python</text>
+    <text x="224" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Python</text>
   </g>
   <g>
     <rect x="268.0" y="56" width="99" height="27" rx="2" fill="#00F0FF" opacity="0.09"/>
     <rect x="268.0" y="56" width="99" height="27" rx="2" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.35"/>
-    <text x="318" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">TypeScript</text>
+    <text x="318" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">TypeScript</text>
   </g>
   <g>
     <rect x="376.0" y="56" width="99" height="27" rx="2" fill="#00F0FF" opacity="0.09"/>
     <rect x="376.0" y="56" width="99" height="27" rx="2" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.35"/>
-    <text x="426" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">JavaScript</text>
+    <text x="426" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">JavaScript</text>
   </g>
   <g>
     <rect x="484.0" y="56" width="32" height="27" rx="2" fill="#00F0FF" opacity="0.09"/>
     <rect x="484.0" y="56" width="32" height="27" rx="2" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.35"/>
-    <text x="500" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">C</text>
+    <text x="500" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">C</text>
   </g>
   <g>
     <rect x="524.5" y="56" width="32" height="27" rx="2" fill="#00F0FF" opacity="0.09"/>
     <rect x="524.5" y="56" width="32" height="27" rx="2" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.35"/>
-    <text x="540" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">R</text>
+    <text x="540" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">R</text>
   </g>
   <g>
     <rect x="565.0" y="56" width="46" height="27" rx="2" fill="#00F0FF" opacity="0.09"/>
     <rect x="565.0" y="56" width="46" height="27" rx="2" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.35"/>
-    <text x="588" y="74" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">SQL</text>
+    <text x="588" y="74" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">SQL</text>
   </g>
-  <text x="34" y="138" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#FF2E97" letter-spacing="2.2" opacity="0.9">ML  /  AI</text>
+  <text x="34" y="138" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#FF2E97" letter-spacing="2.2" opacity="0.9">ML  /  AI</text>
   <rect x="34" y="147" width="144" height="1" fill="#FF2E97" opacity="0.25"/>
   <g>
     <rect x="190" y="118" width="114" height="27" rx="2" fill="#FF2E97" opacity="0.09"/>
     <rect x="190" y="118" width="114" height="27" rx="2" fill="none" stroke="#FF2E97" stroke-width="1" opacity="0.35"/>
-    <text x="247" y="136" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">scikit-learn</text>
+    <text x="247" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">scikit-learn</text>
   </g>
   <g>
     <rect x="313.0" y="118" width="62" height="27" rx="2" fill="#FF2E97" opacity="0.09"/>
     <rect x="313.0" y="118" width="62" height="27" rx="2" fill="none" stroke="#FF2E97" stroke-width="1" opacity="0.35"/>
-    <text x="344" y="136" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">NumPy</text>
+    <text x="344" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">NumPy</text>
   </g>
   <g>
     <rect x="383.5" y="118" width="69" height="27" rx="2" fill="#FF2E97" opacity="0.09"/>
     <rect x="383.5" y="118" width="69" height="27" rx="2" fill="none" stroke="#FF2E97" stroke-width="1" opacity="0.35"/>
-    <text x="418" y="136" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Pandas</text>
+    <text x="418" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Pandas</text>
   </g>
   <g>
     <rect x="461.5" y="118" width="69" height="27" rx="2" fill="#FF2E97" opacity="0.09"/>
     <rect x="461.5" y="118" width="69" height="27" rx="2" fill="none" stroke="#FF2E97" stroke-width="1" opacity="0.35"/>
-    <text x="496" y="136" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">OpenCV</text>
+    <text x="496" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">OpenCV</text>
   </g>
   <g>
     <rect x="539.5" y="118" width="99" height="27" rx="2" fill="#FF2E97" opacity="0.09"/>
     <rect x="539.5" y="118" width="99" height="27" rx="2" fill="none" stroke="#FF2E97" stroke-width="1" opacity="0.35"/>
-    <text x="589" y="136" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Claude API</text>
+    <text x="589" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Claude API</text>
   </g>
   <g>
     <rect x="647.5" y="118" width="69" height="27" rx="2" fill="#FF2E97" opacity="0.09"/>
     <rect x="647.5" y="118" width="69" height="27" rx="2" fill="none" stroke="#FF2E97" stroke-width="1" opacity="0.35"/>
-    <text x="682" y="136" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Gemini</text>
+    <text x="682" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Gemini</text>
   </g>
   <g>
     <rect x="725.5" y="118" width="46" height="27" rx="2" fill="#FF2E97" opacity="0.09"/>
     <rect x="725.5" y="118" width="46" height="27" rx="2" fill="none" stroke="#FF2E97" stroke-width="1" opacity="0.35"/>
-    <text x="749" y="136" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">RAG</text>
+    <text x="749" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">RAG</text>
   </g>
   <g>
     <rect x="781.0" y="118" width="62" height="27" rx="2" fill="#FF2E97" opacity="0.09"/>
     <rect x="781.0" y="118" width="62" height="27" rx="2" fill="none" stroke="#FF2E97" stroke-width="1" opacity="0.35"/>
-    <text x="812" y="136" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">FAISS</text>
+    <text x="812" y="136" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">FAISS</text>
   </g>
-  <text x="34" y="200" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#A78BFA" letter-spacing="2.2" opacity="0.9">BACKEND  /  DATA</text>
+  <text x="34" y="200" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#A78BFA" letter-spacing="2.2" opacity="0.9">BACKEND  /  DATA</text>
   <rect x="34" y="209" width="144" height="1" fill="#A78BFA" opacity="0.25"/>
   <g>
     <rect x="190" y="180" width="76" height="27" rx="2" fill="#A78BFA" opacity="0.09"/>
     <rect x="190" y="180" width="76" height="27" rx="2" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.35"/>
-    <text x="228" y="198" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">FastAPI</text>
+    <text x="228" y="198" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">FastAPI</text>
   </g>
   <g>
     <rect x="275.5" y="180" width="76" height="27" rx="2" fill="#A78BFA" opacity="0.09"/>
     <rect x="275.5" y="180" width="76" height="27" rx="2" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.35"/>
-    <text x="314" y="198" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Next.js</text>
+    <text x="314" y="198" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Next.js</text>
   </g>
   <g>
     <rect x="361.0" y="180" width="62" height="27" rx="2" fill="#A78BFA" opacity="0.09"/>
     <rect x="361.0" y="180" width="62" height="27" rx="2" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.35"/>
-    <text x="392" y="198" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">React</text>
+    <text x="392" y="198" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">React</text>
   </g>
   <g>
     <rect x="431.5" y="180" width="54" height="27" rx="2" fill="#A78BFA" opacity="0.09"/>
     <rect x="431.5" y="180" width="54" height="27" rx="2" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.35"/>
-    <text x="458" y="198" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Node</text>
+    <text x="458" y="198" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Node</text>
   </g>
   <g>
     <rect x="494.5" y="180" width="99" height="27" rx="2" fill="#A78BFA" opacity="0.09"/>
     <rect x="494.5" y="180" width="99" height="27" rx="2" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.35"/>
-    <text x="544" y="198" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">PostgreSQL</text>
+    <text x="544" y="198" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">PostgreSQL</text>
   </g>
   <g>
     <rect x="602.5" y="180" width="69" height="27" rx="2" fill="#A78BFA" opacity="0.09"/>
     <rect x="602.5" y="180" width="69" height="27" rx="2" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.35"/>
-    <text x="637" y="198" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Prisma</text>
+    <text x="637" y="198" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Prisma</text>
   </g>
   <g>
     <rect x="680.5" y="180" width="76" height="27" rx="2" fill="#A78BFA" opacity="0.09"/>
     <rect x="680.5" y="180" width="76" height="27" rx="2" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.35"/>
-    <text x="719" y="198" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">MongoDB</text>
+    <text x="719" y="198" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">MongoDB</text>
   </g>
   <g>
     <rect x="766.0" y="180" width="84" height="27" rx="2" fill="#A78BFA" opacity="0.09"/>
     <rect x="766.0" y="180" width="84" height="27" rx="2" fill="none" stroke="#A78BFA" stroke-width="1" opacity="0.35"/>
-    <text x="808" y="198" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Supabase</text>
+    <text x="808" y="198" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Supabase</text>
   </g>
-  <text x="34" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11.5" fill="#00F0FF" letter-spacing="2.2" opacity="0.9">TOOLS</text>
+  <text x="34" y="262" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" fill="#00F0FF" letter-spacing="2.2" opacity="0.9">TOOLS</text>
   <rect x="34" y="271" width="144" height="1" fill="#00F0FF" opacity="0.25"/>
   <g>
     <rect x="190" y="242" width="46" height="27" rx="2" fill="#00F0FF" opacity="0.09"/>
     <rect x="190" y="242" width="46" height="27" rx="2" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.35"/>
-    <text x="213" y="260" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Git</text>
+    <text x="213" y="260" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Git</text>
   </g>
   <g>
     <rect x="245.5" y="242" width="69" height="27" rx="2" fill="#00F0FF" opacity="0.09"/>
     <rect x="245.5" y="242" width="69" height="27" rx="2" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.35"/>
-    <text x="280" y="260" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Docker</text>
+    <text x="280" y="260" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Docker</text>
   </g>
   <g>
     <rect x="323.5" y="242" width="62" height="27" rx="2" fill="#00F0FF" opacity="0.09"/>
     <rect x="323.5" y="242" width="62" height="27" rx="2" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.35"/>
-    <text x="354" y="260" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Linux</text>
+    <text x="354" y="260" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Linux</text>
   </g>
   <g>
     <rect x="394.0" y="242" width="69" height="27" rx="2" fill="#00F0FF" opacity="0.09"/>
     <rect x="394.0" y="242" width="69" height="27" rx="2" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.35"/>
-    <text x="428" y="260" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Vercel</text>
+    <text x="428" y="260" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Vercel</text>
   </g>
   <g>
     <rect x="472.0" y="242" width="76" height="27" rx="2" fill="#00F0FF" opacity="0.09"/>
     <rect x="472.0" y="242" width="76" height="27" rx="2" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.35"/>
-    <text x="510" y="260" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Railway</text>
+    <text x="510" y="260" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Railway</text>
   </g>
   <g>
     <rect x="557.5" y="242" width="76" height="27" rx="2" fill="#00F0FF" opacity="0.09"/>
     <rect x="557.5" y="242" width="76" height="27" rx="2" fill="none" stroke="#00F0FF" stroke-width="1" opacity="0.35"/>
-    <text x="596" y="260" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Jupyter</text>
+    <text x="596" y="260" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" fill="#C9D1D9" text-anchor="middle">Jupyter</text>
   </g>
   <rect width="1000" height="324" fill="url(#scans)"/>
 </svg>

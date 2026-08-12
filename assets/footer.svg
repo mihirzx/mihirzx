@@ -23,7 +23,7 @@
   <rect x="0" y="0" width="120" height="1.5" fill="#FF2E97">
     <animate attributeName="x" values="-120;1000;-120" dur="7s" repeatCount="indefinite"/>
   </rect>
-  <text x="500.0" y="46" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14.5" fill="#C9D1D9" text-anchor="middle" letter-spacing="2.4">Building things that matter, one commit at a time.</text>
-  <text x="500.0" y="72" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6E7681" text-anchor="middle" letter-spacing="2.8">EOF &#183; mihirzx</text>
+  <text x="500.0" y="46" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#C9D1D9" text-anchor="middle" letter-spacing="2.4">Building things that matter, one commit at a time.</text>
+  <text x="500.0" y="72" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" fill="#6E7681" text-anchor="middle" letter-spacing="2.8">EOF &#183; mihirzx</text>
   <rect width="1000" height="96" fill="url(#scanf)"/>
 </svg>
