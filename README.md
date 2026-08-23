@@ -2,7 +2,7 @@
 
 <img src="assets/header.svg" width="100%" alt="Mihir Jani — Computer Vision Data Engineer @ Glimpse" />
 
-<a href="https://linkedin.com/in/mihir-jani"><img src="https://img.shields.io/badge/LINKEDIN-0A0E14?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" /></a> <a href="mailto:Mihirjani@umass.edu"><img src="https://img.shields.io/badge/EMAIL-0A0E14?style=for-the-badge&logo=gmail&logoColor=FF2E97" alt="Email" /></a> <a href="https://rx-buddy.vercel.app"><img src="https://img.shields.io/badge/RXBUDDY-0A0E14?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="RxBuddy live" /></a> <img src="https://komarev.com/ghpvc/?username=mihirzx&style=for-the-badge&color=00F0FF&label=VIEWS" alt="" />
+<a href="https://linkedin.com/in/mihir-jani-profile"><img src="https://img.shields.io/badge/LINKEDIN-0A0E14?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" /></a> <a href="mailto:Mihirjani@umass.edu"><img src="https://img.shields.io/badge/EMAIL-0A0E14?style=for-the-badge&logo=gmail&logoColor=FF2E97" alt="Email" /></a> <a href="https://rx-buddy.vercel.app"><img src="https://img.shields.io/badge/RXBUDDY-0A0E14?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="RxBuddy live" /></a> <img src="https://komarev.com/ghpvc/?username=mihirzx&style=for-the-badge&color=00F0FF&label=VIEWS" alt="" />
 
 </div>
 
